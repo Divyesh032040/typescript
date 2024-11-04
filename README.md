@@ -1,6 +1,5 @@
-Here’s the complete `README.md` file, ready to copy and paste:
 
-```markdown
+
 # 🌟 My TypeScript Journey 🚀
 
 Welcome to my TypeScript repository! This collection contains my learning journey through TypeScript, covering various concepts and hands-on code examples to enhance my skills. Here, you'll find everything from TypeScript basics to advanced type manipulation.
