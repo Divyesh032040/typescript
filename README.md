@@ -6,17 +6,6 @@ Welcome to my TypeScript repository! This collection contains my learning journe
 
 <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="150"/>
 
-## 📜 Table of Contents
-- [About This Repository](#about-this-repository)
-- [Getting Started](#getting-started)
-- [Concepts Covered](#concepts-covered)
-- [Project Structure](#project-structure)
-- [Sample Code](#sample-code)
-- [Installation & Usage](#installation--usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
----
 
 ## ✨ About This Repository
 
