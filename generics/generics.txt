@@ -1,0 +1,10 @@
+Generics in TypeScript provide a way to create reusable components or functions that work with different types without sacrificing type safety. They enable you to write code that can work with any data type while still enforcing type constraints, making your code more flexible and reusable.
+
+Why Use Generics?
+Imagine a function that can take any type as input and returns it as output. Without generics, you’d likely use any, which removes type safety and doesn’t give you any control over the types being passed in. Generics allow you to define this "any" type more precisely, which improves both safety and flexibility.
+
+basic syntax
+Generics in TypeScript are usually defined using angle brackets (<>) with a type parameter.
+
+
+Without generics, you’d need separate functions for each type,
