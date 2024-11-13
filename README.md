@@ -18,7 +18,7 @@ This repository is a compilation of TypeScript code that demonstrates my underst
 Clone the repository to your local machine to start exploring my TypeScript examples:
 
 ```bash
-git clone https://github.com/YourUsername/typescript.git
+git clone https://github.com/Divyesh032040/typescript.git
 cd typescript
 ```
 
